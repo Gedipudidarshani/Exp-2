@@ -24,5 +24,7 @@ Create the following diagrams in StarUML:
 ### Communication Diagram:
 ![image](https://github.com/user-attachments/assets/0bfee440-4471-4496-b4dc-bbd5bdbeeb2b)
 ### Sequence Diagram:
+![image](https://github.com/user-attachments/assets/92a77974-62e2-4749-aead-53550a19c156)
+
 # RESULT:
 Thus, the UML diagrams for Library Management System has been created successfully.
